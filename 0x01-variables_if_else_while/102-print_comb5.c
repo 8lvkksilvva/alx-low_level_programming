@@ -22,9 +22,9 @@ int main(void)
 			putchar((q % 10) + '0');
 			if (p == 98 && q == 99)
 			{
+				continue;
 				putchar(',');
 				putchar(' ');
-				continue;
 			}
 		}
 	}
