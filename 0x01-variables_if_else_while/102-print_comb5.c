@@ -1,4 +1,6 @@
 #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 /**
  * main - main function
@@ -8,8 +10,7 @@
 
 int main(void)
 {
-	int p;
-	int q;
+	int p, q;
 
 	for (p = 0 ; p <= 98 ; p++)
 	{
