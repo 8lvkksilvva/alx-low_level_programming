@@ -2,7 +2,8 @@
 
 /**
  * print_square - prints a square, followed by a new line
- * @size: size of the square
+ * @size: the number of squares/number of times
+ * Return: empty
  */
 
 void print_square(int size)
